@@ -1,0 +1,36 @@
+.elementor-1216 .elementor-element.elementor-element-16dab17f > .elementor-column-wrap > .elementor-widget-wrap > .elementor-widget:not(.elementor-widget__width-auto):not(.elementor-widget__width-initial):not(:last-child):not(.elementor-absolute) {margin-bottom: 20px;}
+.elementor-1216 .elementor-element.elementor-element-6f8ead44 {text-align: center;}
+.elementor-1216 .elementor-element.elementor-element-6f8ead44 .elementor-heading-title {color: #000;font-size: 65px;font-weight: 900;}
+.elementor-1216 .elementor-element.elementor-element-a6e940c {text-align: center;}
+.elementor-1216 .elementor-element.elementor-element-a6e940c .elementor-heading-title {color: #000;font-size: 32px;font-weight: 900;}
+.elementor-1216 .elementor-element.elementor-element-fe91c00 {text-align: center;}
+.elementor-1216 .elementor-element.elementor-element-fe91c00 .elementor-heading-title {color: #000;font-size: 25px;font-weight: 900;}
+.elementor-1216 .elementor-element.elementor-element-1738e32a.elementor-position-right .elementor-image-box-img {margin-left: 0px;}
+.elementor-1216 .elementor-element.elementor-element-1738e32a.elementor-position-left .elementor-image-box-img {margin-right: 0px;}
+.elementor-1216 .elementor-element.elementor-element-1738e32a.elementor-position-top .elementor-image-box-img {margin-bottom: 0px;}
+.elementor-1216 .elementor-element.elementor-element-1738e32a .elementor-image-box-wrapper .elementor-image-box-img {width: 26%;}
+.elementor-1216 .elementor-element.elementor-element-1738e32a .elementor-image-box-img img {transition-duration: .3s;}
+.elementor-1216 .elementor-element.elementor-element-1738e32a .elementor-image-box-wrapper {text-align: center;}
+.elementor-1216 .elementor-element.elementor-element-1738e32a .elementor-image-box-title {margin-bottom: 10px;}
+.elementor-1216 .elementor-element.elementor-element-1738e32a .elementor-image-box-content .elementor-image-box-title {color: #000;font-size: 35px;font-weight: 900;}
+.elementor-1216 .elementor-element.elementor-element-1738e32a .elementor-image-box-content .elementor-image-box-description {color: #bfbfbf;font-size: 15px;font-weight: 300;text-transform: uppercase;line-height: .7em;letter-spacing: 2px;}
+.elementor-1216 .elementor-element.elementor-element-1738e32a > .elementor-widget-container {margin: 0px 0px 0px 0px;}
+.elementor-1216 .elementor-element.elementor-element-18f3ffc0 .elementor-text-editor {text-align: center;}
+.elementor-1216 .elementor-element.elementor-element-18f3ffc0 {font-size: 25px;font-weight: 300;line-height: 2em;}
+.elementor-1216 .elementor-element.elementor-element-ced9680 {text-align: center;}
+.elementor-1216 .elementor-element.elementor-element-ced9680 .elementor-social-icon {background-color: rgba(0,0,0,0);font-size: 25px;}
+.elementor-1216 .elementor-element.elementor-element-ced9680 .elementor-social-icon i {color: #000;}
+.elementor-1216 .elementor-element.elementor-element-ced9680 .elementor-social-icon svg {fill: #000;}
+.elementor-1216 .elementor-element.elementor-element-ced9680 .elementor-social-icon:hover i {color: #00ce1b;}
+.elementor-1216 .elementor-element.elementor-element-ced9680 .elementor-social-icon:hover svg {fill: #00ce1b;}
+@media (max-width:999px) {.elementor-1216 .elementor-element.elementor-element-6f8ead44 .elementor-heading-title {font-size: 45px;}
+	.elementor-1216 .elementor-element.elementor-element-a6e940c .elementor-heading-title {font-size: 21px;}
+	.elementor-1216 .elementor-element.elementor-element-fe91c00 .elementor-heading-title {font-size: 21px;}
+	.elementor-1216 .elementor-element.elementor-element-1738e32a .elementor-image-box-wrapper .elementor-image-box-img {width: 60%;}
+	.elementor-1216 .elementor-element.elementor-element-1738e32a > .elementor-widget-container {margin: 0px 0px 0px 0px;}}
+@media (max-width:689px) {.elementor-1216 .elementor-element.elementor-element-6f8ead44 .elementor-heading-title {font-size: 45px;}
+	.elementor-1216 .elementor-element.elementor-element-a6e940c .elementor-heading-title {font-size: 21px;}
+	.elementor-1216 .elementor-element.elementor-element-fe91c00 .elementor-heading-title {font-size: 17px;}
+	.elementor-1216 .elementor-element.elementor-element-1738e32a .elementor-image-box-img {margin-bottom: 0px;}
+	.elementor-1216 .elementor-element.elementor-element-1738e32a .elementor-image-box-wrapper .elementor-image-box-img {width: 60%;}
+	.elementor-1216 .elementor-element.elementor-element-18f3ffc0 {font-size: 18px;}}
